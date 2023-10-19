@@ -1,0 +1,16 @@
+Fill in the title: Give the issue a short, 
+clear title that describes the problem or idea it 
+pertains to
+Describe the issue: In the text 
+box below the titl
+e, provide a detailed description of t
+he issue. If you're reporting a bug, include information about how to reproduce the problem, what you expected to happen, and what actually happened. If it's a feature request, describe the feature and why 
+you think inch
+Make different modif
+
+ications to the same lines in the same files and commit these changes
+Attempt to merg
+e branch-a 
+into main. Multiple merge conflicts should occur.
+Resolve 
+eac
