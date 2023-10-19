@@ -1,0 +1,8 @@
+
+the main branch
+Make different modifications
+ to the same lines in the same files and commit these changes
+Attempt to merge branch-
+a into main. Multiple merge conflicts should occur.
+Resolve each co
+nflict

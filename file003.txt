@@ -1,0 +1,9 @@
+nch
+Make different modif
+
+ications to the same lines in the same files and commit these changes
+Attempt to merg
+e branch-a 
+into main. Multiple merge conflicts should occur.
+Resolve 
+each 

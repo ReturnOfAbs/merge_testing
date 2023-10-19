@@ -1,0 +1,3 @@
+ct one by one. You can use VSCode's merge tool to help visualize and resolve the conflicts
+After all conflicts have been resolved, stage and commit the changes
+Use git log to confirm that 
