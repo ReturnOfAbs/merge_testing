@@ -1,0 +1,10 @@
+As we have discussed in an earlier lesson, git and GitHub 
+work best when you adhere to the principles of a feature-based 
+workflow 
+(i.e. "one branch, one feature"). 
+Additionally it is a good idea to document the
+ motivation for each change prior to working on it. GitHub has a feature designed for this process, called issues.
+
+A GitHub issue is a dedicated thread created in a 
+repository to discuss a specific problem or topic related 
+to the project. It can represent various aspects suc

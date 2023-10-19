@@ -1,0 +1,16 @@
+orked Example - Using Issues and Branches to Add
+ a Feature
+Let's return to our merge_testing re
+pository. Let's a
+ssume we want to add a simple feature - 
+a python script that prints "H
+ello World!
+" when called. 
+Each new feature shoul
+d have its own bran
+ch, and each branch shou
+ld be associated
+ with an issue. H
+ere's how to perform th
+e full develo
+pment cycl
