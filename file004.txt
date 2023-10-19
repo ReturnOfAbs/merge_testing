@@ -1,3 +1,8 @@
+Assign: (Optional) On the right side, you can choo
+se to assign the issue to specific collaborators. This
+ step might not be available if you do not ha
+ ve write access to the repository
+
 nch
 Mak
 e differen
@@ -8,4 +13,4 @@ es in the same files
 Attempt to merge branch-a in
 to main. Multiple merge conflicts sho
 uld occur.
-Resolve each 
+Res
